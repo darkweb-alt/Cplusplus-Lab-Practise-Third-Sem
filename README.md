@@ -10,28 +10,28 @@ This repository contains the complete set of **C++ lab experiments** for **Basic
 
 | Experiment | Topic / Scenario | Filename |
 |------------|----------------|----------|
-| Exp 1.a | Hello World – Warm Welcome Message | `exp1_a_hello_world.cpp` |
-| Exp 1.b | Data Types & Size | `exp1_b_datatypes.cpp` |
-| Exp 1.c | ATM Withdrawal Simulation | `exp1_c_atm.cpp` |
-| Exp 1.d | Electricity Bill Calculation (Slab Rates) | `exp1_d_eb_bill.cpp` |
-| Exp 1.e | Circle Area Calculation | `exp1_e_circle_area.cpp` |
-| Exp 1.f | Tom's Grade Average | `exp1_f_grade_average.cpp` |
-| Exp 1.g | Bus Fare Based on Distance Slabs | `exp1_g_bus_fare.cpp` |
-| Exp 1.h | Login Validation System with Attempts | `exp1_h_login.cpp` |
-| Exp 1.i | Student Grade System (Class & Objects) | `exp1_i_student_grade.cpp` |
-| Exp 1.j | Bank Account Management System | `exp1_j_bank_account.cpp` |
-| Exp 1.k | Rectangle Class – Constructor, Area, Display | `exp1_k_rectangle.cpp` |
-| Exp 1.l | Transport Class – Copy Constructor | `exp1_l_transport.cpp` |
-| Exp 1.m | Manager Record Generation (Multilevel Inheritance) | `exp1_m_manager_inheritance.cpp` |
-| Exp 1.n | Talent Tracker – Multiple Inheritance | `exp1_n_talent_tracker.cpp` |
-| Exp 1.o | Device Monitoring System – Hierarchical Inheritance | `exp1_o_device_monitoring.cpp` |
-| Exp 1.p | Static Function – Order Tracking | `exp1_p_static_function.cpp` |
-| Exp 1.q | Friend Function – Fund Transfer | `exp1_q_friend_function.cpp` |
-| Exp 1.r | Function Overloading – Billing System | `exp1_r_function_overloading.cpp` |
-| Exp 1.s | Operator Overloading – Distance Addition | `exp1_s_operator_overloading.cpp` |
-| Exp 1.t | Method Overriding – Virtual Functions | `exp1_t_virtual_functions.cpp` |
-| Exp 1.u | Function Templates – Arithmetic Operations | `exp1_u_function_templates.cpp` |
-| Exp 1.v | Class Templates – Student Information | `exp1_v_class_templates.cpp` |
+| Exp 1.a | Hello World – Warm Welcome Message | `1a.cpp` |
+| Exp 1.b | Data Types & Size | `1b.cpp` |
+| Exp 1.c | ATM Withdrawal Simulation | `1c.cpp` |
+| Exp 1.d | Electricity Bill Calculation (Slab Rates) | `1d.cpp` |
+| Exp 1.e | Circle Area Calculation | `1e.cpp` |
+| Exp 1.f | Tom's Grade Average | `1f.cpp` |
+| Exp 1.g | Bus Fare Based on Distance Slabs | `1g.cpp` |
+| Exp 1.h | Login Validation System with Attempts | `1h.cpp` |
+| Exp 1.i | Student Grade System (Class & Objects) | `1i.cpp` |
+| Exp 1.j | Bank Account Management System | `1j.cpp` |
+| Exp 1.k | Rectangle Class – Constructor, Area, Display | `1k.cpp` |
+| Exp 1.l | Transport Class – Copy Constructor | `1l.cpp` |
+| Exp 1.m | Manager Record Generation (Multilevel Inheritance) | `1m.cpp` |
+| Exp 1.n | Talent Tracker – Multiple Inheritance | `1n.cpp` |
+| Exp 1.o | Device Monitoring System – Hierarchical Inheritance | `1o.cpp` |
+| Exp 1.p | Static Function – Order Tracking | `1p.cpp` |
+| Exp 1.q | Friend Function – Fund Transfer | `1q.cpp` |
+| Exp 1.r | Function Overloading – Billing System | `1r.cpp` |
+| Exp 1.s | Operator Overloading – Distance Addition | `1s.cpp` |
+| Exp 1.t | Method Overriding – Virtual Functions | `1t.cpp` |
+| Exp 1.u | Function Templates – Arithmetic Operations | `1u.cpp` |
+| Exp 1.v | Class Templates – Student Information | `1v.cpp` |
 
 ---
 
