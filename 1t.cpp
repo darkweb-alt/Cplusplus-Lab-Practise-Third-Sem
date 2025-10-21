@@ -22,7 +22,6 @@ public:
         cout << "Part-time Employee Salary: ₹20000" << endl;
     }
 };
-
 int main() {
     Employee *emp1 = new FullTimeEmployee();
     Employee *emp2 = new PartTimeEmployee();
