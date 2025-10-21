@@ -58,13 +58,13 @@ This repository contains the complete set of **C++ lab experiments** for **Basic
    ```
 3.Compile the C++ program using g++ (or any C++ compiler):
   ```bash
-g++ exp1_a_hello_world.cpp -o hello_world
+   g++ 1a.cpp -o hello_world
   ```
 
 4.Run the executable:
-
-./hello_world
-
+```bash
+  ./hello_world
+```
 
 5.Follow the prompts in the terminal for input, if required.
 
