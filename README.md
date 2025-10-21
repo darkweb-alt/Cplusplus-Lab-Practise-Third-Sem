@@ -1,3 +1,8 @@
+# 📝 Author
+
+**Pitambar Yadav** – Student, Sri Ramakrishna Engineering College (SREC), Coimbatore
+
+---
 # Welcome to C++ Lab Practise – Third Semester
 
 [![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)](https://isocpp.org/) 
@@ -70,7 +75,7 @@ This repository contains **all C++ lab experiments (Exp 1: a–v)** for your lab
  
 5.Follow the prompts in the terminal for input, if required.
 
-📖 Learning Outcomes
+## 📖 Learning Outcomes
 
 Understand basic syntax and structure of C++ programs
 
@@ -80,12 +85,12 @@ Implement practical applications using C++
 
 Gain hands-on experience with templates, static functions, friend functions, and operator overloading
 
-🔗 References
+## 🔗 References
 
 C++ Programming Tutorials – GeeksforGeeks, CPPReference
 
 College Lab Manual / Experiments Guide
 
-📝 Author
+## 📝 Author
 
 Pitambar Yadav – Student, Sri Ramakrishna Engineering College (SREC), Coimbatore
