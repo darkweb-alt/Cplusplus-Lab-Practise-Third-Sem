@@ -50,11 +50,11 @@ This repository contains the complete set of **C++ lab experiments** for **Basic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/darkweb-alt/Cplusplus-Lab-Practise-Third-Sem.git
 
 2.Navigate to the folder containing the desired experiment:
    ```bash
-cd <experiment-folder>
+   cd <experiment-folder>
    ```
 3.Compile the C++ program using g++ (or any C++ compiler):
   ```bash
